@@ -1,0 +1,5 @@
+shower
+grate
+drain
+stopper
+bathroom

@@ -1,0 +1,5 @@
+gate
+mount
+baby-gate
+holder
+adhesive

@@ -1,0 +1,5 @@
+soldering-iron
+cleaner
+copper-mesh
+holder
+soldering
