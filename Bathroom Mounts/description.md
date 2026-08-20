@@ -1,5 +1,3 @@
-This is a test
-
 This is an assortment of mounts for various bathroom items.
 
 All are installed and recommended to be installed with 3M VHB tape, others can be used, an have been but the performace has and can be sub par.
