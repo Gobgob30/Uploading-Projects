@@ -1,5 +1,7 @@
 A simple cardboard target holder, no provisions for follow through.
 
+![Image of Thingy](https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/master/projects/Cardboard%20Holder/STL/Holder.stl)
+
 Uses a simple light stand as a base, 15mm dia, I have seen a larger dia version but I haven't tried to model that one yet.....
 
 ### Required Hardware
