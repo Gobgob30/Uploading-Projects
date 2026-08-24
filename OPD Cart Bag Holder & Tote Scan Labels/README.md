@@ -8,6 +8,10 @@ If you have a vertical mount that allows distance between your phone and camera 
 
 Just know they are a pain for initial time cost, filling, sanding, and finishing takes a lot of time.
 
+<img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/OPD%20Cart%20Bag%20Holder%20%26%20Tote%20Scan%20Labels/Renders/IMG_5656.jpg" width="240" alt="description">
+
+<img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/OPD%20Cart%20Bag%20Holder%20%26%20Tote%20Scan%20Labels/Renders/IMG_5655.jpg" width="240" alt="description">
+
 ## Hangers
 
 Just simple hooks that clamp on and allow you to put small items into the bags, single bagging items and minimizing moving around your cart.
@@ -15,3 +19,8 @@ Just simple hooks that clamp on and allow you to put small items into the bags, 
 ### Required hardware
 
 - 1x per hanger M3 nut, screw, washer
+- 1 ~3mm thick hook [Link](https://www.amazon.com/dp/B08GPQ9YN9)/bent clipstrip hook
+
+<img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/OPD%20Cart%20Bag%20Holder%20%26%20Tote%20Scan%20Labels/Renders/IMG_5654.jpg" width="240" alt="description">
+
+<img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/OPD%20Cart%20Bag%20Holder%20%26%20Tote%20Scan%20Labels/Renders/IMG_5653.jpg" width="240" alt="description">
