@@ -15,9 +15,9 @@ Has both centered and offset backplate and circuit plate to accommodate.
 - 1x m5 spring setscrew
 - Optional Wire ~4mm [Link I Used](https://www.amazon.com/dp/B0B4C3S4F5) | Most the modules seem okay taking up to 12v..... Not guarantee anything.
 
-[Installation Instructions](##Installation-Instructions)
+[Installation Instructions](#Installation-Instructions)
 
-## Installation Instructions
+# Installation Instructions
 
 - Print all the Charger parts
 - Install coil and module to base
