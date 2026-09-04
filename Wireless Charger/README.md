@@ -21,12 +21,12 @@ Has both centered and offset backplate and circuit plate to accommodate.
 
 - Print all the Charger parts
 - Install coil and module to base
- 1. De-solder the coil from module
- 2. Stick coil onto coil base with provided stick tape
- 3. Use double sided tape to put the module on other side
- 3. Install heat shrink if desired. 
- 4. Put wires though provided hole and re-solder wire onto module
- 4. Soldering connector cable if desired
+  1. De-solder the coil from module
+  2. Stick coil onto coil base with provided stick tape
+  3. Use double sided tape to put the module on other side
+  4. Install heat shrink if desired.
+  5. Put wires though provided hole and re-solder wire onto module
+  6. Soldering connector cable if desired
 - Using the Set Jeff to put the back plate and base together, barely tight enough to keep friction
 - Put the spring bolts into the back plate, far enough to feel the click but not to lock it up
 - Stack the circuit body into the cover and then into the phone holder, placing the nuts into place afterwards
@@ -43,7 +43,7 @@ Has both centered and offset backplate and circuit plate to accommodate.
 
 #### Amazon
 
-[Link 1](https://www.amazon.com/jussming-Wireless-Charging-Module-Qi-Compatible/dp/B0GRV73NNT) 
+[Link 1](https://www.amazon.com/jussming-Wireless-Charging-Module-Qi-Compatible/dp/B0GRV73NNT)
 [Link 2](https://www.amazon.com/Gikfun-Wireless-Charging-Universal-Interface/dp/B0BRMMYZR2/)
 [Link 3](https://www.amazon.com/Wireless-Charger-Charging-Transmitter-Modification/dp/B0DQ4YRF37/)
 
