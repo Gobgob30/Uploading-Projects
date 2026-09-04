@@ -13,7 +13,7 @@ Has both centered and offset backplate and circuit plate to accommodate.
 - 2x m3 washer | Set Jeff
 - 1x m4 spring setscrew
 - 1x m5 spring setscrew
-- Optional Wire ~4mm [Link I Used](https://www.amazon.com/dp/B0B4C3S4F5) | Most the modules seem okay taking up to 12v..... Not guarrteenying anything.
+- Optional Wire ~4mm [Link I Used](https://www.amazon.com/dp/B0B4C3S4F5) | Most the modules seem okay taking up to 12v..... Not guarantee anything.
 
 [Installation Instructions](##Installation-Instructions)
 
