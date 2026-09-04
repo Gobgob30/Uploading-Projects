@@ -4,7 +4,7 @@ Uses a variety of Charging modules. Needs to be ~36 mm square and coil diameter 
 
 Has both centered and offset backplate and circuit plate to accommodate.
 
-## Needed Hardware
+## Required Hardware
 
 - Some Based have required hardware as well
 - 1x charging module [purchase links](#Charging-Module-Links)
@@ -26,7 +26,7 @@ Just a standard base. Most used, likely
 
 Base to clip to the front/side of an Digital shopping cart.
 
-## Required Hardware
+#### Required Hardware
 
 - 2x m4 spring setscrews
 
