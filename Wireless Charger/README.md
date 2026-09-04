@@ -17,7 +17,7 @@ Has both centered and offset backplate and circuit plate to accommodate.
 
 [Installation Instructions](#Installation-Instructions)
 
-# Installation Instructions
+## Installation Instructions
 
 - Print all the Charger parts
 - Install coil and module to base
