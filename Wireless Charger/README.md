@@ -6,6 +6,7 @@ Has both centered and offset backplate and circuit plate to accommodate.
 
 ## Needed Hardware
 
+- Some Based have required hardware as well
 - 1x charging module [purchase links](#Charging-Module-Links)
 - Small pad double sided tape ~ 1.125mm thick
 - 4x m3 mm screws, washers & nuts | Set Hec
@@ -19,11 +20,21 @@ Has both centered and offset backplate and circuit plate to accommodate.
 
 # Standard Base
 
+Just a standard base. Most used, likely
+
 # Digital Cart Base
+
+Base to clip to the front/side of an Digital shopping cart.
+
+## Required Hardware
+
+- 2x m4 spring setscrews
 
 # Shopping Cart Base
 
-# Charging Module Links
+Base to rest on a shopping cart
+
+## Charging Module Links
 
 #### Amazon
 
@@ -41,12 +52,12 @@ Has both centered and offset backplate and circuit plate to accommodate.
 
 - Print all the Charger parts
 - Install coil and module to base
- 	1. De-solder the coil from module
- 	2. Stick coil onto coil base with provided stick tape
-	3. Use double sided tape to put the module on other side
-	4. Install heat shrink if desired.
-	5. Put wires though provided hole and re-solder wire onto module
-	6. Soldering connector cable if desired
+  1. De-solder the coil from module
+  2. Stick coil onto coil base with provided stick tape
+  3. Use double sided tape to put the module on other side
+  4. Install heat shrink if desired.
+  5. Put wires though provided hole and re-solder wire onto module
+  6. Soldering connector cable if desired
 - Using the Set Jeff to put the back plate and base together, barely tight enough to keep friction
 - Put the spring bolts into the back plate, far enough to feel the click but not to lock it up
 - Stack the circuit body into the cover and then into the phone holder, placing the nuts into place afterwards
