@@ -48,6 +48,7 @@ Has both centered and offset backplate and circuit plate to accommodate.
 [Link 3](https://www.amazon.com/Wireless-Charger-Charging-Transmitter-Modification/dp/B0DQ4YRF37/)
 
 #### Aliexpress
+
 [Link 1](https://www.aliexpress.us/item/3256806895347684.html)
 [Link 2](https://www.aliexpress.us/item/3256805485002569.html)
 [Link 3](https://www.aliexpress.us/item/3256805973747587.html)
