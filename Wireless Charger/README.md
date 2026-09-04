@@ -4,6 +4,24 @@ Uses a variety of Charging modules. Needs to be ~36 mm square and coil diameter 
 
 Has both centered and offset backplate and circuit plate to accommodate.
 
+[Installation Instructions](##Installation-Instructions)
+
+# Needed Hardware
+
+## Installation Instructions
+
+- Print all the Charger parts
+
+- 
+
+# Standard Base
+
+# Digital Cart Base
+
+# Shopping Cart Base
+
+# Charging Module Links
+
 #### Amazon
 
 [Link 1](https://www.amazon.com/jussming-Wireless-Charging-Module-Qi-Compatible/dp/B0GRV73NNT) 
@@ -15,9 +33,3 @@ Has both centered and offset backplate and circuit plate to accommodate.
 [Link 1](https://www.aliexpress.us/item/3256806895347684.html)
 [Link 2](https://www.aliexpress.us/item/3256805485002569.html)
 [Link 3](https://www.aliexpress.us/item/3256805973747587.html)
-
-# Standard Base
-
-# Digital Cart Base
-
-# Shopping Cart Base
