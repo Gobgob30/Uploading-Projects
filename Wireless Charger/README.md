@@ -4,15 +4,33 @@ Uses a variety of Charging modules. Needs to be ~36 mm square and coil diameter 
 
 Has both centered and offset backplate and circuit plate to accommodate.
 
-[Installation Instructions](##Installation-Instructions)
+## Needed Hardware
 
-# Needed Hardware
+- 1x charging module [purchase links](#Charging-Module-Links)
+- Small pad double sided tape ~ 1.125mm thick
+- 4x m3 mm screws, washers & nuts | Set Hec
+- 1x m3 screw & lock nut | Set Jeff
+- 2x m3 washer | Set Jeff
+- 1x m4 spring setscrew
+- 1x m5 spring setscrew
+
+[Installation Instructions](##Installation-Instructions)
 
 ## Installation Instructions
 
 - Print all the Charger parts
-
-- 
+- Install coil and module to base
+ 1. De-solder the coil from module
+ 2. Stick coil onto coil base with provided stick tape
+ 3. Use double sided tape to put the module on other side
+ 3. Install heat shrink if desired. 
+ 4. Put wires though provided hole and re-solder wire onto module
+ 4. Soldering connector cable if desired
+- Using the Set Jeff to put the back plate and base together, barely tight enough to keep friction
+- Put the spring bolts into the back plate, far enough to feel the click but not to lock it up
+- Stack the circuit body into the cover and then into the phone holder, placing the nuts into place afterwards
+- Install the back plate onto the stack using screws and washers from Set Hec, making sure the cable goes in the slot if installed
+- Tighten stack down
 
 # Standard Base
 
