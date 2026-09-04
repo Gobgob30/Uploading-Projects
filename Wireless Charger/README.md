@@ -2,7 +2,7 @@
 
 Uses a variety of Charging modules. Needs to be ~36 mm square and coil diameter ~50 mm.
 
-Has both centered and offset backplate and circuit plate to acommadate.
+Has both centered and offset backplate and circuit plate to accommodate.
 
 Amazon Links
 https://www.amazon.com/jussming-Wireless-Charging-Module-Qi-Compatible/dp/B0GRV73NNT
