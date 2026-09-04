@@ -17,22 +17,6 @@ Has both centered and offset backplate and circuit plate to accommodate.
 
 [Installation Instructions](#Installation-Instructions)
 
-## Installation Instructions
-
-- Print all the Charger parts
-- Install coil and module to base
-  1. De-solder the coil from module
-  2. Stick coil onto coil base with provided stick tape
-  3. Use double sided tape to put the module on other side
-  4. Install heat shrink if desired.
-  5. Put wires though provided hole and re-solder wire onto module
-  6. Soldering connector cable if desired
-- Using the Set Jeff to put the back plate and base together, barely tight enough to keep friction
-- Put the spring bolts into the back plate, far enough to feel the click but not to lock it up
-- Stack the circuit body into the cover and then into the phone holder, placing the nuts into place afterwards
-- Install the back plate onto the stack using screws and washers from Set Hec, making sure the cable goes in the slot if installed
-- Tighten stack down
-
 # Standard Base
 
 # Digital Cart Base
@@ -52,3 +36,19 @@ Has both centered and offset backplate and circuit plate to accommodate.
 [Link 1](https://www.aliexpress.us/item/3256806895347684.html)
 [Link 2](https://www.aliexpress.us/item/3256805485002569.html)
 [Link 3](https://www.aliexpress.us/item/3256805973747587.html)
+
+## Installation Instructions
+
+- Print all the Charger parts
+- Install coil and module to base
+  1. De-solder the coil from module
+  2. Stick coil onto coil base with provided stick tape
+  3. Use double sided tape to put the module on other side
+  4. Install heat shrink if desired.
+  5. Put wires though provided hole and re-solder wire onto module
+  6. Soldering connector cable if desired
+- Using the Set Jeff to put the back plate and base together, barely tight enough to keep friction
+- Put the spring bolts into the back plate, far enough to feel the click but not to lock it up
+- Stack the circuit body into the cover and then into the phone holder, placing the nuts into place afterwards
+- Install the back plate onto the stack using screws and washers from Set Hec, making sure the cable goes in the slot if installed
+- Tighten stack down
