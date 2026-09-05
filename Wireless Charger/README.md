@@ -4,7 +4,7 @@ Uses a variety of Charging modules. Needs to be ~36 mm square and coil diameter 
 
 Able to turns 90 degs so you can easily watch videos and what not. Sturdy enough to take a few falls before parts need replaced
 
-Most the spring bolts are really tight threads so careful installing them, mainly so stay even with movement.
+Most the spring bolts are really tight threads so careful installing them, mainly so stay even with movement. You can run a normal bolt through them to get the thread cleaned up.
 
 Has both centered and offset backplate and circuit plate to accommodate.
 
@@ -64,6 +64,7 @@ Base to rest on a shopping cart
   6. Soldering connector cable if desired
 - Using the Set Jeff to put the back plate and base together, barely tight enough to keep friction
 - Put the spring bolts into the back plate, far enough to feel the click but not to lock it up
-- Stack the circuit body into the cover and then into the phone holder, placing the nuts into place afterwards, tight press fit
+- Stack the circuit body into the cover and then into the phone holder, placing the nuts into place, tight press fit
+- Take the base/backplate and install the spring set screws, then install the base onto the backplate with Set Jeff
 - Install the back plate onto the stack using screws and washers from Set Hec, making sure the cable goes in the slot if installed
 - Tighten stack down
