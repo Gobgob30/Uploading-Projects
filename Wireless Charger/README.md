@@ -60,6 +60,6 @@ Base to rest on a shopping cart
   6. Soldering connector cable if desired
 - Using the Set Jeff to put the back plate and base together, barely tight enough to keep friction
 - Put the spring bolts into the back plate, far enough to feel the click but not to lock it up
-- Stack the circuit body into the cover and then into the phone holder, placing the nuts into place afterwards
+- Stack the circuit body into the cover and then into the phone holder, placing the nuts into place afterwards, tight press fit
 - Install the back plate onto the stack using screws and washers from Set Hec, making sure the cable goes in the slot if installed
 - Tighten stack down
