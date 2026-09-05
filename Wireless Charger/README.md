@@ -1,6 +1,8 @@
 # Wireless Charger with multiple bases
 
-Uses a variety of Charging modules. Needs to be ~36 mm square and coil diameter ~50 mm.
+Uses a variety of Charging modules. Needs to be ~36 mm square and coil diameter ~50 mm. Option to use a 
+
+Most the spring bolts are really tight threads so careful installing them, mainly so stay even with movement.
 
 Has both centered and offset backplate and circuit plate to accommodate.
 
@@ -9,7 +11,7 @@ Has both centered and offset backplate and circuit plate to accommodate.
 - Some Based have required hardware as well
 - 1x charging module [purchase links](#Charging-Module-Links)
 - Small pad double sided tape ~ 1.125mm thick
-- 4x m3 mm screws, washers & nuts | Set Hec
+- 4x m3 x 26.5 mm screws, washers & nuts | Set Hec
 - 1x m3 screw & lock nut | Set Jeff
 - 2x m3 washer | Set Jeff
 - 1x m4 spring setscrew
