@@ -49,7 +49,7 @@ Base to rest on a shopping cart
 #### Aliexpress
 
 [Link 1](https://www.aliexpress.us/item/3256806895347684.html)
-[Link 2](https://www.aliexpress.us/item/3256805485002569.html)
+[Link 2](https://www.aliexpress.us/item/3256805864577670.html)
 [Link 3](https://www.aliexpress.us/item/3256805973747587.html)
 
 ## Installation Instructions
