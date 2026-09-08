@@ -22,6 +22,8 @@ Has both centered and offset backplate and circuit plate to accommodate.
 
 [Installation Instructions](#Installation-Instructions)
 
+![Installation Video](https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/Wireless%20Charger%20Installation%20Video%20480.gif)
+
 # Standard Base
 
 Just a standard base. Most used, likely
@@ -78,5 +80,3 @@ If you shop or do returns, it should work for yah!!!
 - Take the base/backplate and install the spring set screws, then install the base onto the backplate with Set Jeff
 - Install the back plate onto the stack using screws and washers from Set Hec, making sure the cable goes in the slot if installed
 - Tighten stack down
-
-![Installation Video](https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/Wireless%20Charger%20Installation%20Video%20480.gif)
