@@ -26,6 +26,8 @@ Has both centered and offset backplate and circuit plate to accommodate.
 
 Just a standard base. Most used, likely
 
+<img src="" alt="Alt text" height="500">
+
 # Digital Cart Base
 
 Base to clip to the front/side of an Digital shopping cart.
