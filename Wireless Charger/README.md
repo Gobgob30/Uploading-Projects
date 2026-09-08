@@ -2,7 +2,7 @@
 
 Uses a variety of Charging modules. Needs to be ~36 mm square and coil diameter ~50 mm. Option to use a cable for more variety
 
-Able to turns 90 degs so you can easily watch videos and what not. Sturdy enough to take a few falls before parts need replaced
+Able to turns 90 degs so you can easily watch videos and what not. Sturdy enough to take a few falls before parts need replaced 1.5x so far
 
 Most the spring bolts are really tight threads so careful installing them, mainly so stay even with movement. You can run a normal bolt through them to get the thread cleaned up.
 
