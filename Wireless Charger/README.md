@@ -39,6 +39,7 @@ I have no clue what else cart this may match.
 # Shopping Cart Base
 
 Base to rest on a shopping cart
+If you shop or do returns, it should work for yah!!!
 
 ## Charging Module Links
 
