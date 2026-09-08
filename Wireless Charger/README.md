@@ -29,6 +29,8 @@ Just a standard base. Most used, likely
 # Digital Cart Base
 
 Base to clip to the front/side of an Digital shopping cart.
+Any Cart based around Winholt's ALTPC-2536-MO, ours has a different set but the central numbers match. 
+I have no clue what else cart this may match.
 
 #### Required Hardware
 
