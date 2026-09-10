@@ -1,5 +1,7 @@
 # Wireless Charger with multiple bases with entertainment "mode"
 
+testing
+
 Uses a variety of Charging modules. Needs to be ~36 mm square and coil diameter ~50 mm. Option to use a cable for more variety
 
 Able to turns 90 degs so you can easily watch videos and what not. Sturdy enough to take a few falls before parts need replaced
