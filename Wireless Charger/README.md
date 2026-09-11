@@ -69,7 +69,7 @@ If you shop or do returns, it should work for yah!!!
 	1. De-solder the coil from module
 	2. Stick coil onto coil base with provided stick tape
 	3. Use double sided tape to put the module on other side
-	4. Install heat shrink if desired.
+	4. Lengthen wire if necesary then add heat shirnk if desired
 	5. Put wires though provided hole and re-solder wire onto module
 	6. Soldering connector cable if desired
 - Using the Set Jeff to put the back plate and base together, barely tight enough to keep friction
