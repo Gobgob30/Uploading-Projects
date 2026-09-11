@@ -37,8 +37,7 @@ If you shop or do returns, it should work for yah!!!
 
 ## Required Hardware
 
-- Some Based have required hardware as well
-- 1x charging module [purchase links](#Charging-Module-Links)
+- 1x charging module [purchase links](#Charging-Module-Links) _Print the one that matches your module_
 - Small pad double sided tape ~ 1.125mm thick
 - 4x m3 x 26.5 mm screws, washers & nuts | Set Hec
 - 1x m3 screw & lock nut | Set Jeff
