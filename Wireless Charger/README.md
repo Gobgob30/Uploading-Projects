@@ -6,23 +6,7 @@ Able to turns 90 degs so you can easily watch videos and what not. Sturdy enough
 
 Most the spring bolts are really tight threads so careful installing them, mainly so stay even with movement. You can run a normal bolt through them to get the thread cleaned up.
 
-Has both centered and offset backplate and circuit plate to accommodate.
-
-## Required Hardware
-
-- Some Based have required hardware as well
-- 1x charging module [purchase links](#Charging-Module-Links)
-- Small pad double sided tape ~ 1.125mm thick
-- 4x m3 x 26.5 mm screws, washers & nuts | Set Hec
-- 1x m3 screw & lock nut | Set Jeff
-- 2x m3 washer | Set Jeff
-- 1x m4 spring setscrew
-- 1x m5 spring setscrew
-- Optional Wire ~4mm [Link I Used](https://www.amazon.com/dp/B0B4C3S4F5) | Most the modules seem okay taking up to ~12v..... Not guarantee anything.
-
-[Installation Instructions](#Installation-Instructions)
-
-![Installation Video](https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/Wireless%20Charger%20Installation%20Video%20480.gif)
+Has both centered and offset backplate and circuit plate to accommodate the different linked modules.
 
 # Standard Base
 
@@ -49,6 +33,23 @@ Base to rest on a shopping cart
 If you shop or do returns, it should work for yah!!!
 
 <img src="" alt="Alt text" height="500">
+
+
+## Required Hardware
+
+- Some Based have required hardware as well
+- 1x charging module [purchase links](#Charging-Module-Links)
+- Small pad double sided tape ~ 1.125mm thick
+- 4x m3 x 26.5 mm screws, washers & nuts | Set Hec
+- 1x m3 screw & lock nut | Set Jeff
+- 2x m3 washer | Set Jeff
+- 1x m4 spring setscrew
+- 1x m5 spring setscrew
+- Optional Wire ~4mm [Link I Used](https://www.amazon.com/dp/B0B4C3S4F5) | Most the modules seem okay taking up to ~12v..... Not guarantee anything.
+
+[Installation Instructions](#Installation-Instructions)
+
+![Installation Video](https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/Wireless%20Charger%20Installation%20Video%20480.gif)
 
 ## Charging Module Links
 
