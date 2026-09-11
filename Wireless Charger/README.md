@@ -46,7 +46,7 @@ If you shop or do returns, it should work for yah!!!
 - 1x m5 spring setscrew
 - Optional Wire ~4mm [Link](https://www.amazon.com/dp/B0B4C3S4F5) | Most the modules seem okay taking up to ~12v..... Not guarantee anything.
 
-### [Installation Instructions](#Installation-Instructions)
+### [_Installation Instructions_](#Installation-Instructions)
 
 ![Installation Video](https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/Wireless%20Charger%20Installation%20Video%20480.gif)
 
