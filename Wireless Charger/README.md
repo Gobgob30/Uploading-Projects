@@ -39,12 +39,12 @@ If you shop or do returns, it should work for yah!!!
 
 - 1x charging module [purchase links](#Charging-Module-Links) _Print the one that matches your module_
 - Small pad of double sided tape ~ 1.125mm thick _Prefer 3m VHB tape but use what you got_
-- 4x m3 x 26.5 mm screws, washers & nuts | Set Hec
-- 1x m3 screw & lock nut | Set Jeff
-- 2x m3 washer | Set Jeff
+- 4x m3 x 26.5 mm screws, washers & nuts | _Set Hec_
+- 1x m3 screw & lock nut | _Set Jeff_
+- 2x m3 washer | _Set Jeff_
 - 1x m4 spring setscrew
 - 1x m5 spring setscrew
-- Optional Wire ~4mm [Link I Used](https://www.amazon.com/dp/B0B4C3S4F5) | Most the modules seem okay taking up to ~12v..... Not guarantee anything.
+- Optional Wire ~4mm [Link](https://www.amazon.com/dp/B0B4C3S4F5) | Most the modules seem okay taking up to ~12v..... Not guarantee anything.
 
 [Installation Instructions](#Installation-Instructions)
 
