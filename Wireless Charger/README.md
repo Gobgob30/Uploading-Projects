@@ -32,7 +32,7 @@ I have no clue what else cart this may match.
 Base to rest on a shopping cart
 If you shop or do returns, it should work for yah!!!
 
-<img src="" alt="Alt text" height="500">
+<img src="" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
 
 
 ## Required Hardware
