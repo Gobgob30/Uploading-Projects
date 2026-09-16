@@ -17,8 +17,13 @@ Just a standard base. Most used, likely
 # Digital Cart Base
 
 Base to clip to the front/side of an Digital shopping cart.
+
 Any Cart based around Winholt's ALTPC-2536-MO utility shelf, ours has a different set but the central numbers match. 
 I have no clue what else cart this may match.
+
+Both front and side connections. Front is best for adjustability*, side is more stable/out the way.
+
+*Sticker mount/Scan Proxies are easier to set, you can center the phone on where you want it.
 
 #### Required Hardware
 
