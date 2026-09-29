@@ -2,7 +2,7 @@
 
 Uses a variety of Charging modules. Needs to be ~36 mm square and coil diameter ~50 mm. Option to use a cable for more variety
 
-Able to turns 90 deg so you can easily watch videos and what not. Sturdy enough to take a few falls before parts need replaced. 5x Seem the limit.... Maybe making makeing the phone holder thinner where not contacting the plates???.... Hmmmmmmmm
+Able to turns 90 degs so you can easily watch videos and what not. Sturdy enough to take a few falls before parts need replaced. 5x Seem the limit.... Maybe making making the phone holder thinner where not contacting the plates???.... Hmmmmmmmm
 
 Most the spring bolts are really tight threads so careful installing them, makes them stop backing out as bad. You can run a normal bolt through them to get the thread cleaned up.
 
