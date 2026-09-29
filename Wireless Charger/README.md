@@ -2,7 +2,7 @@
 
 Uses a variety of Charging modules. Needs to be ~36 mm square and coil diameter ~50 mm. Option to use a cable for more variety
 
-Able to turns 90 deg so you can easily watch videos and what not. Sturdy enough to take a few falls before parts need replaced. 2.5x so far
+Able to turns 90 deg so you can easily watch videos and what not. Sturdy enough to take a few falls before parts need replaced. 5x Seem the limit.... Maybe making makeing the phone holder thinner where not contacting the plates???.... Hmmmmmmmm
 
 Most the spring bolts are really tight threads so careful installing them, makes them stop backing out as bad. You can run a normal bolt through them to get the thread cleaned up.
 
@@ -18,12 +18,12 @@ Just a standard base. Most used, likely
 
 Base to clip to the front/side of an Digital shopping cart.
 
-Any Cart based around Winholt's ALTPC-2536-MO utility shelf, ours has a different set but the central numbers match. 
+Any Cart based around Winholt's ALTPC-2536-MO utility shelf, ours has a different set but the central numbers match.
 I have no clue what else cart this may match.
 
-Both front and side connections. Front is best for adjustability*, side is more stable/out the way.
+Both front and side connections. Front is best for adjustability\*, side is more stable/out the way.
 
-*Sticker mount/Scan Proxies are easier to set, you can center the phone on where you want it.
+\*Sticker mount/Scan Proxies are easier to set, you can center the phone on where you want it.
 
 #### Required Hardware
 
@@ -38,7 +38,6 @@ Base to rest on a shopping cart
 If you shop or do returns, it should work for yah!!!
 
 <img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5763.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
-
 
 ## Required Hardware
 
@@ -71,12 +70,12 @@ If you shop or do returns, it should work for yah!!!
 
 - Print all the Charger parts
 - Install coil and module to base:
-	1. De-solder the coil from module
-	2. Stick coil onto coil base with provided stick tape
-	3. Use double sided tape to put the module on other side
-	4. Lengthen wire if necessary then add heat shrink if desired
-	5. Put wires though provided hole and re-solder wire onto module
-	6. Soldering connector cable if desired
+  1.  De-solder the coil from module
+  2.  Stick coil onto coil base with provided stick tape
+  3.  Use double sided tape to put the module on other side
+  4.  Lengthen wire if necessary then add heat shrink if desired
+  5.  Put wires though provided hole and re-solder wire onto module
+  6.  Soldering connector cable if desired
 - Using the Set Jeff to put the back plate and base together, barely tight enough to keep friction
 - Put the spring bolts into the back plate, far enough to feel the click but not to lock it up
 - Stack the circuit body into the cover and then into the phone holder, placing the nuts into place, tight press fit
