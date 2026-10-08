@@ -1,16 +1,16 @@
-# Wireless Charger with multiple bases with entertainment "mode"
+# Wireless charger with base compatibility and tilt for watching things.
 
-Uses a variety of Charging modules. Needs to be ~36 mm square and coil diameter ~50 mm. Option to use a cable for more variety
+Uses a variety of Charging modules. Needs to be ~36 mm square and coil diameter ~50 mm. Option to use a cable for more variety on battery
 
-Able to turns 90 degs so you can easily watch videos and what not. Sturdy enough to take a few falls before parts need replaced. 5x Seem the limit.... Maybe making making the phone holder thinner where not contacting the plates???.... Hmmmmmmmm
+Able to turns 90 degs so you can easily watch videos and what not. Sturdy enough to take a few falls before parts need replaced. 5x Seem the limit.... Phone holder may need lightening/stregthening.
 
-Most the spring bolts are really tight threads so careful installing them, makes them stop backing out as bad. You can run a normal bolt through them to get the thread cleaned up.
+Most the spring bolts are really tight threads so careful installing them, makes them stop backing out as bad. You can run a normal bolt through them to get the thread cleaned up. Suggest using some form of thread locker.
 
 Has both centered and offset backplate and circuit plate to accommodate the different linked modules.
 
 # Standard Base
 
-Just a standard base. Most used, likely
+Just a standard base. Used for normal operation, not good for moving platforms though. 
 
 <img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5738.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
 
@@ -18,10 +18,10 @@ Just a standard base. Most used, likely
 
 Base to clip to the front/side of an Digital shopping cart.
 
-Any Cart based around Winholt's ALTPC-2536-MO utility shelf, ours has a different set but the central numbers match.
-I have no clue what else cart this may match.
+Any Cart based around Winholt's ALTPC-2536-MO utility shelf, ours has a different model number but the central numbers match.
+I have no clue what else carts this may match.
 
-Both front and side connections. Front is best for adjustability\*, side is more stable/out the way.
+Both front and side connections. Front is best for adjustability\*, side is more stable/out the way, the springs backing out can cause issues though.
 
 \*Sticker mount/Scan Proxies are easier to set, you can center the phone on where you want it.
 
@@ -34,7 +34,7 @@ Both front and side connections. Front is best for adjustability\*, side is more
 
 # Shopping Cart Base
 
-Base to rest on a shopping cart
+Base to rest on a shopping cart. Made with the idea for the contract shopper that would want a charger to set on the cart.
 If you shop or do returns, it should work for yah!!!
 
 <img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5763.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
@@ -82,3 +82,4 @@ If you shop or do returns, it should work for yah!!!
 - Take the base/backplate and install the spring set screws, then install the base onto the backplate with Set Jeff
 - Install the back plate onto the stack using screws and washers from Set Hec, making sure the cable goes in the slot if installed
 - Tighten stack down
+- Click into desired base
