@@ -1,5 +1,3 @@
-# Wireless charger with base compatibility and tilt for watching things.
-
 Uses a variety of Charging modules. Needs to be ~36 mm square and coil diameter ~50 mm. Option to use a cable for more variety on battery
 
 Able to turns 90 degs so you can easily watch videos and what not. Sturdy enough to take a few falls before parts need replaced. 5x Seem the limit.... Phone holder may need lightening/stregthening.
@@ -12,7 +10,8 @@ Has both centered and offset backplate and circuit plate to accommodate the diff
 
 Just a standard base. Used for normal operation, not good for moving platforms though. 
 
-<img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5738.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
+<img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5813.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
+<img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5814.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
 
 # Digital Cart Base
 
@@ -37,7 +36,9 @@ Both front and side connections. Front is best for adjustability\*, side is more
 Base to rest on a shopping cart. Made with the idea for the contract shopper that would want a charger to set on the cart.
 If you shop or do returns, it should work for yah!!!
 
-<img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5763.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
+<img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5799.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
+<img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5800.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
+<img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5801.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
 
 ## Required Hardware
 
