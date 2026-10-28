@@ -11,6 +11,7 @@ Has both centered and offset backplate and circuit plate to accommodate the diff
 Just a standard base. Used for normal operation, not good for moving platforms though. 
 
 <img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5813.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
+
 <img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5814.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
 
 # Digital Cart Base
@@ -29,6 +30,7 @@ Both front and side connections. Front is best for adjustability\*, side is more
 - 2x M3 screws long enough to touch the top.
 
 <img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5734.jpg" alt="IMG_5734.jpg" height="500" style="display: inline; vertical-align: middle;">
+
 <img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5731.jpg" alt="IMG_5731.jpg" height="500" style="display: inline; vertical-align: middle;">
 
 # Shopping Cart Base
@@ -37,7 +39,9 @@ Base to rest on a shopping cart. Made with the idea for the contract shopper tha
 If you shop or do returns, it should work for yah!!!
 
 <img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5799.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
+
 <img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5800.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
+
 <img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Wireless%20Charger/Renders/IMG_5801.jpg" alt="Alt text" height="500" style="display: inline; vertical-align: middle;">
 
 ## Required Hardware
