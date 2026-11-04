@@ -10,6 +10,8 @@ Added some features other tips have had but cant find anymore.
 2. Has fins inside to help with rigidity
 3. Can add custom text to the outside
 
-If you are resin printing the model, which you should be, [make sure to clean/cure it properly](https://youtu.be/nFbTO97CyTY?t=50) and apply mold release. 
+If you are resin printing the model, which you should be, [make sure to clean/cure it properly](https://youtu.be/nFbTO97CyTY?t=50)* and apply mold release. 
+
+* The procedure I use generally expect add in a heating step after water curing
 
 Make sure its stable and skin safe silicone.
