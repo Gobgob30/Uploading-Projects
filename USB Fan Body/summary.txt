@@ -1,0 +1,1 @@
+Simple body with switch for usb fan.
