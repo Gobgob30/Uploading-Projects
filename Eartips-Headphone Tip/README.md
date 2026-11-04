@@ -9,3 +9,5 @@ Added some features other tips have had but cant find anymore.
 1. Ribbed to help hold them in
 2. Has fins inside to help with rigidity
 3. Can add custom text to the outside
+
+If you are resin printing the model, which you should be, (make sure to cure it properly]() and apply mold release.
