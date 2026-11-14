@@ -1,6 +1,6 @@
 Molds for some Headphone Tips
 
-All Example images show are 11mm
+All Example images show are 11mm, [better way to degass than shown](https://github.com/Gobgob30/Uploading-Projects/tree/master/Luer%20Standalones)
 
 <img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Eartips-Headphone%20Tip/Renders/Ear%20Tips.jpg" alt="Ear Tips.jpg" height="500" style="display: inline; vertical-align: middle;">
 
