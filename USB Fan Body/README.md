@@ -22,4 +22,8 @@ Use it to dry off print and tired of always running. Plus it was bad just sittin
 
 ### Base body
 
-1. Screw gooseneck into body
+1. Screw gooseneck into body and USB wire into back
+2. Wire the button into place
+3. Put button in the slot and use cover plate to affix.
+4. Tuck slack into the back slot, if fan is open still, the cavity is a good place for most of it.
+5. Install Top plate and use the last M2 screws/washers to install the top
