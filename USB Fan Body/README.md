@@ -5,9 +5,9 @@ Use it to dry off print and tired of always running. Plus it was bad just sittin
 ## Required Hardware
 
 1. 1/4 in male-male goose neck, wires routed through
-2. 4x M2x8mm screws and washers. 2 can be as long as you don't interfere with wires.
-3. 4x M4*35mm screws, washer and nuts
-4. 1x 8025 fan
+2. 4x [M2x8mm screws and washers](https://www.amazon.com/dp/B0GKMVNG4D). 2 can be as long as you don't interfere with wires.
+3. 4x M4*35mm [screws](https://www.amazon.com/dp/B0DYSM4T47), [washer](https://www.amazon.com/dp/B0DRJM697N) and [nuts](https://www.amazon.com/dp/B0F8GGH5GX)
+4. 1x [8025 fan](https://www.amazon.com/dp/B0DFXRR3CQ)
 5. 1208YD switch
 
 ## Installation instructions
