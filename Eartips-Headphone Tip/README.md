@@ -1,5 +1,7 @@
 Molds for some Headphone Tips
 
+<img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/Eartips-Headphone%20Tip/Renders/Ear%20Tips.jpg" alt="Ear Tips.jpg" height="500" style="display: inline; vertical-align: middle;">
+
 Tired of always losing/damaging the ones I got. So I made a mold to make some silicone tips myself.
 
 General equivalents: 10mm=S 11mm=M 12mm=L 13mm=XL 14mm+=OMG, you need some custom tips lmao Z
