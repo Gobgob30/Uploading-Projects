@@ -2,7 +2,7 @@ Molds for some Headphone Tips
 
 Tired of always losing/damaging the ones I got. So I made a mold to make some silicone tips myself.
 
-General equivalents: 10mm=S 11mm=M 12mm=L 13mm=XL 14mm+=OMG, you need some custom tips lmao 
+General equivalents: 10mm=S 11mm=M 12mm=L 13mm=XL 14mm+=OMG, you need some custom tips lmao Z
 
 Added some features other tips have had but cant find anymore.
 
