@@ -3,6 +3,7 @@ Simple body with switch for usb fan.
 Use it to dry off print and tired of always running. Plus it was bad just sitting on the table.
 
 <img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/USB%20Fan%20Body/Renders/IMG_5824.jpg" alt="IMG_5824.jpg" height="500" style="display: inline; vertical-align: middle;">
+<img src="https://raw.githubusercontent.com/Gobgob30/Uploading-Projects/refs/heads/master/USB%20Fan%20Body/Renders/IMG_5825.jpg" alt="IMG_5825.jpg" height="500" style="display: inline; vertical-align: middle;">
 
 ## Required Hardware
 
