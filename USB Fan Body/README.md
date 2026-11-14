@@ -5,7 +5,7 @@ Use it to dry off print and tired of always running. Plus it was bad just sittin
 ## Required Hardware
 
 1. 1/4 in male-male goose neck, wires routed through
-2. 3x M2x8mm screws and washers. 2 can be as long as you don't interfere with wires.
+2. 4x M2x8mm screws and washers. 2 can be as long as you don't interfere with wires.
 3. 4x M4*35mm screws, washer and nuts
 4. 1x 8025 fan
 5. 1208YD switch
