@@ -4,7 +4,7 @@ Simple mold for silicone and retainer for said silicone mold
 
 Make sure you use a resin that's low contaminants or [treated in a special way]()
 
-Standard Number set
+Standard Number Arrangement, can change this or any other property in the [onshape model.](https://cad.onshape.com/documents/2a6f13c62744df386cc28091/w/233bffdd50407c380e3798ba/e/b61bb3017ef73c0b9ea4a797)
 
 ### Required Hardware
 
