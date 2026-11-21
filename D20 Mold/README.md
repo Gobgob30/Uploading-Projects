@@ -1,6 +1,6 @@
-D20 mold made by me, produced and sponsored by justway.com
+D20 Mold made by me, produced and sponsored by justway.com
 
-Simple mold for silicone and retainer for said silicone mold
+Simple mold for a D20 silicone mold and retainer for said silicone mold
 
 Make sure you use a resin that's low contaminants or [treated in a special way]()
 
@@ -8,7 +8,7 @@ Standard Number Arrangement, can change this or any other property in the [onsha
 
 ### Required Hardware
 
-#### Mold
+#### Mold for the mold
 
 - 5x M2 screws, nuts, and washers
 
