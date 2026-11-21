@@ -20,4 +20,4 @@ Standard Number Arrangement, can change this or any other property in the [onsha
 
 HERE IS WHERE I TALK ABOUT THE PARTS MADE BY JUSTWAY.
 
-<Photo area>
+\<Photo area\>
