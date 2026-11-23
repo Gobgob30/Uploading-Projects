@@ -1,4 +1,4 @@
-D20 Mold made by me, produced and sponsored by justway.com
+D20 Mold made by me, molds produced and sponsored by justway.com
 
 Simple mold for a D20 silicone mold and retainer for said silicone mold
 
