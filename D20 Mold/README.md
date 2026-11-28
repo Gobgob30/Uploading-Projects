@@ -6,7 +6,7 @@ There is alignment notches in both the silicone mold and mold for the silicone m
 
 Make sure you use a resin that's low contaminants or [treated in a special way](https://youtu.be/nFbTO97CyTY?t=50)
 
-Standard Number Arrangement, can change this or any other property in the [onshape model.](https://cad.onshape.com/documents/2a6f13c62744df386cc28091/w/233bffdd50407c380e3798ba/e/b61bb3017ef73c0b9ea4a797)
+Standard Number Arrangement, can change this or any other property in the [onshape model.](https://cad.onshape.com/documents/2a6f13c62744df386cc28091/w/233bffdd50407c380e3798ba/e/b61bb3017ef73c0b9ea4a797) Number sets currently available is 0-5, named in the model parts. Adding more through the D20 Variables
 
 ### Required Hardware
 
